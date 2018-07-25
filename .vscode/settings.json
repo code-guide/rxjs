@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "tslint.autoFixOnSave": true,
+    "code-runner.executorMap": {
+        "typescript": "ts-node"
+    }
+}
